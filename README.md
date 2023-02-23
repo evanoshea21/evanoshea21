@@ -25,7 +25,7 @@ I'm excited to work with you! Connect with me on
 - I’m currently learning **NextJs** React Framework for Front-End Server-Side-Rendering to improve SEO and load times.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MySql Server Deployment or uploading images from an Expo/React-Native app to an S3 cloud storage bucket (I've done the struggling *for* in these two areas lol)
   
 
 - ⚡ Fun fact: My first ever programming Experience was at a Game-Development summer camp at Stanford when I was 13 years old  
@@ -129,6 +129,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
