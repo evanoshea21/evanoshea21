@@ -5,7 +5,7 @@ I'm Evan, a full-time full-stack software engineer with a drive to compete and i
 
 My background in business and marketing has offered me the experience to create synergistic chemistry in **team settings**. This, paired with my technical ability in full-stack environments, has left me excited and poised that I can effectively execute any app I set my mind to.
 
-My speciality is with React for the front end, Node and MySql for the backend, and AWS for deployment. But I have extensive experience with many more technologies listed below.
+My speciality is in React for the front end, Node and MySql for the backend, and AWS for deployment. But I have extensive experience with many more technologies listed below.
 
 <div align="center">
 I'm excited to work with you! Connect with me on 
