@@ -3,9 +3,11 @@
 ### <div align="center">Greetings! 
 I'm Evan, a full-time full-stack software engineer with a drive to compete and innovate. Check out my [Website](https://evanoshea.dev)!
 
-My background in marketing and design has afforded me the experience to design and execute on creative visions. This led me to software engineering where my passion lay from the ripe age of 13 when I attended a coding summer camp at Stanford.
+My background in marketing and design has given me the experience to design and execute on creative visions. 
+ 
+My passion for software engineering began when I was 13 years old, after attending a coding summer camp hosted at Stanford Universtity.
   
-Over the years I have gained extensive experience in full-stack application design and implementation, and have paired those skills with my marketing experience to meet consumer needs with technical applications.
+Over the years I have gained extensive experience in full-stack design and implementation, and have paired those skills with my marketing experience to meet consumer needs with technical applications.
 
 My speciality is in Typescript, React and jQuery for the front end, Node and MySql for the backend, and AWS/Next.js for deployment. But I have experience with many more technologies listed below.
 
