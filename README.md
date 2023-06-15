@@ -102,10 +102,6 @@ I'm excited to work with you! Connect with me on
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=evanoshea21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
