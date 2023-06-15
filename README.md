@@ -19,7 +19,7 @@ I'm excited to work with you! Connect with me on
 </div>  
   
 
-- 🔭 I’m currently working on [Pinning Bees Front Page](https://github.com/pinning-bees), a front-end landing page designed to convert onlookers into clients.  
+- 🔭 I’m currently working on [Pinning Bees' Front Page](https://github.com/evanoshea21/pinning-bees), a front-end landing page designed to convert onlookers into clients.  
   
 
 - I’m currently learning **NextJs** React Framework for Front-End Server-Side-Rendering to improve SEO and load times.  
