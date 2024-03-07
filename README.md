@@ -1,7 +1,7 @@
 
 
 ### <div align="center">Greetings! 
-I'm Evan, a full-time full-stack software engineer with a drive to compete and innovate. Check out my [Website](https://evanoshea.dev)!
+I'm Evan, a full-time full-stack software engineer with a drive to compete and innovate. Check out my [Website](https://evanoshea.dev).
 
 My background in marketing and design has given me the experience to design and execute on creative visions. 
  
