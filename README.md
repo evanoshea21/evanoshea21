@@ -20,23 +20,9 @@ I'm excited to work with you! Connect with me on
 </div>  
 
 
-</div>  
-  
-
-- 🔭 I’m currently working on [Pinning Bees' Front Page](https://github.com/evanoshea21/pinning-bees), a front-end landing page designed to convert onlookers into clients.  
-  
-
-- I’m currently learning **NextJs 13** with **Prisma ORM** to implement and deploy full-stack apps in extremely short time frames with Typescript and React.  
-  
-
-- ❓ Ask me about anything related to MySql Server Deployment or uploading images from an Expo/React-Native app to an S3 cloud storage bucket (I've done the struggling *for* you in these two areas lol)
-  
-
-- ⚡ Fun fact: My first ever programming Experience was at a Game-Development summer camp at Stanford when I was 13 years old  
-  
+</div>    
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
